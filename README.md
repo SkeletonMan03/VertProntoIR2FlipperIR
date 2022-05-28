@@ -1,5 +1,5 @@
 # VertProntoIR2FlipperIR
-This is a script from converting Vert Pronto IR codes to a format that the Flipper Zero can understand
+This is a script for converting Vert Pronto IR codes to a format that the Flipper Zero can understand
 
 # Why?
 To help create a huge repository of IR codes for Flipper Zero owners  
