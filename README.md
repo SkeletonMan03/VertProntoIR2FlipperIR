@@ -1,6 +1,10 @@
 # VertProntoIR2FlipperIR
 This is a script from converting Vert Pronto IR codes to a format that the Flipper Zero can understand
 
+# Why?
+To help create a huge repository of IR codes for owners of Flipper Zero owners  
+See https://github.com/UberGuidoZ/Flipper-IRDB
+
 # How to use
 Pretty simple, just run ```convert file.html```
 
